@@ -1,0 +1,28 @@
+# Build artifacts
+bin/
+obj/
+*.class
+
+# Node
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
