@@ -148,7 +148,7 @@ Through this program, I aim to:
 
 ## Academic Information
 
-**Name:** Kakumanu VenkataSadwik  
+**Name:** Kandepu Venkata Manasa Sai Datta 
 **Degree:** B.Tech – Computer Science & Engineering  
 **University:** Vignan University
 
